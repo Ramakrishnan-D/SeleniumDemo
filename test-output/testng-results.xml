@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-25T15:40:07 IST" name="Default suite" finished-at="2023-02-25T15:40:41 IST" duration-ms="34153">
+    <groups>
+    </groups>
+    <test started-at="2023-02-25T15:40:07 IST" name="Default test" finished-at="2023-02-25T15:40:41 IST" duration-ms="34153">
+      <class name="selenium.learning.LambdaTest">
+        <test-method signature="registerTest()[pri:0, instance:selenium.learning.LambdaTest@8dbdac1]" started-at="2023-02-25T15:40:07 IST" name="registerTest" finished-at="2023-02-25T15:40:41 IST" duration-ms="34119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerTest -->
+      </class> <!-- selenium.learning.LambdaTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
